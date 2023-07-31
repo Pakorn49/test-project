@@ -11,6 +11,10 @@ const house = [
         code: "BL",
         name: "Billy"
     },
+    {
+        code: "NT",
+        name: "Noitari"
+    },
 ]
 
 const getFamily = houseCode => {
